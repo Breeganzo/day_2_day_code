@@ -45,7 +45,7 @@ class day_2
     }
 }*/
 
-//time-O(N) space-O(N)
+//time-O(N) 
 import java.util.*;
 class day_2
 {
@@ -89,4 +89,4 @@ class day_2
         }
         System.out.println("]");
     }
-}
+}//Most interviews do not ask for space complexity so we dont need to solve this in O(N) space.
